@@ -1,12 +1,12 @@
-📝 **Sentiment Analysis Tool**  
+# 📝 **Sentiment Analysis Tool**  
 
 This project is an **intelligent sentiment classifier** that analyzes text using **machine learning** and **natural language processing techniques**.  
 
 It leverages:  
-#NLP (stemming & stopword removal) for text preprocessing  
-#TF-IDF for feature extraction  
-#Logistic Regression for sentiment classification  
-#Gradio for a **user-friendly interactive interface**  
+NLP (stemming & stopword removal) for text preprocessing  
+TF-IDF for feature extraction  
+Logistic Regression for sentiment classification  
+Gradio for a **user-friendly interactive interface**  
 
 🚀 **Features:**
 
